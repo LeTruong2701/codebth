@@ -1,0 +1,12 @@
+D:\visual\Thuchanhlthdt\TH1.bai1\TH1.bai1\bin\Debug\TH1.bai1.exe.config
+D:\visual\Thuchanhlthdt\TH1.bai1\TH1.bai1\bin\Debug\TH1.bai1.exe
+D:\visual\Thuchanhlthdt\TH1.bai1\TH1.bai1\bin\Debug\TH1.bai1.pdb
+D:\visual\Thuchanhlthdt\TH1.bai1\TH1.bai1\obj\Debug\TH1.bai1.csprojAssemblyReference.cache
+D:\visual\Thuchanhlthdt\TH1.bai1\TH1.bai1\obj\Debug\TH1.bai1.exe
+D:\visual\Thuchanhlthdt\TH1.bai1\TH1.bai1\obj\Debug\TH1.bai1.pdb
+D:\Laptrinhhuongdoituong\Thuchanhlthdt\TH1.bai1\TH1.bai1\obj\Debug\TH1.bai1.csprojAssemblyReference.cache
+D:\Laptrinhhuongdoituong\Thuchanhlthdt\TH1.bai1\TH1.bai1\obj\Debug\TH1.bai1.exe
+D:\Laptrinhhuongdoituong\Thuchanhlthdt\TH1.bai1\TH1.bai1\obj\Debug\TH1.bai1.pdb
+D:\Laptrinhhuongdoituong\Thuchanhlthdt\TH1.bai1\TH1.bai1\bin\Debug\TH1.bai1.exe.config
+D:\Laptrinhhuongdoituong\Thuchanhlthdt\TH1.bai1\TH1.bai1\bin\Debug\TH1.bai1.exe
+D:\Laptrinhhuongdoituong\Thuchanhlthdt\TH1.bai1\TH1.bai1\bin\Debug\TH1.bai1.pdb
